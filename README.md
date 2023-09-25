@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Exploartion&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Exploration&fontSize=90" />
 
 Aiffel에서 진행한 Exploartion 노드관련 코드들입니다!
 
