@@ -2,6 +2,12 @@
 
 ![image](https://github.com/mkk4726/Exploartion/assets/68997408/d769c67b-74c9-401c-8aa0-a716ce1de5ad)
 
+
+# 회고
+꽤 어렵게 느껴진 GAN 모델에 대해 많이 익숙해진 것 같아서 좋다.  
+거의 이번 노드는 12시간 이상 소요된 것 같은데, 결국 잘 끝내서 뿌듯하다.  
+전체적인 플로우를 obsidian의 excalidrwa를 이용해 그려봤는데, 정리가 너무 잘된다. 앞으로도 꾸준히 그려봐야겠다.  
+
 # AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 김민규
 - 리뷰어 : 리뷰어의 이름을 작성하세요.
