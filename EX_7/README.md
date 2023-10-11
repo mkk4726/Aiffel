@@ -19,29 +19,34 @@ epoch10과 epoch 50을 비교해봐도 큰 차이가 없는 것으로 보아 데
 
 # PRT(Peer Review Template)
 - [X]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
-      - The illustrating process of GAN is well-drawn and fulfills all the criteria
+      
+- The illustrating process of GAN is well-drawn and fulfills all the criteria
 
 <img width="939" alt="image" src="https://github.com/mkk4726/Exploartion/assets/129345591/a40e2326-8259-400e-bbda-d82602be5a94">
     
 - [X]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
-      - reviewer can understand because of comprehensive annotations
-      - The graph help me to understand how is the learning works
+
+- reviewer can understand because of comprehensive annotations
+  - The graph help me to understand how is the learning works
        
 <img width="377" alt="image" src="https://github.com/mkk4726/Exploartion/assets/129345591/3c81d055-8408-4b27-8557-3cd71d52e016">
 
 - [X]  **3. 에러가 난 부분을 디버깅하여 문제를 “해결한 기록을 남겼거나” ”새로운 시도 또는 추가 실험을 수행”해봤나요?**
-      - the coder has done new methods for saving data
+      
+- the coder has done new methods for saving data
        
 <img width="380" alt="image" src="https://github.com/mkk4726/Exploartion/assets/129345591/935972a5-5296-48d0-8dfa-4d7fa6050531">
-   <img width="433" alt="image" src="https://github.com/mkk4726/Exploartion/assets/129345591/973cb221-a5c2-4b16-b66c-dd41c8ccd67e">
+<img width="433" alt="image" src="https://github.com/mkk4726/Exploartion/assets/129345591/973cb221-a5c2-4b16-b66c-dd41c8ccd67e">
         
 - [X]  **4. 회고를 잘 작성했나요?**
-      - the review is well-crafted
+      
+- the review is well-crafted
        
 <img width="835" alt="image" src="https://github.com/mkk4726/Exploartion/assets/129345591/f4c858e4-7fef-4d7e-a43d-540275978d1e">
         
 - [X]  **5. 코드가 간결하고 효율적인가요?**
-      - the code is simple and efficient
+      
+- the code is simple and efficient
 
 # 참고 링크 및 코드 개선
 ```
