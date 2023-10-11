@@ -1,8 +1,6 @@
 # 프로젝트 플로우 살펴보기
 
-![image](https://github.com/mkk4726/Exploartion/assets/68997408/40ad7919-ee74-45c6-a8f3-90408aa584bb)
-
-
+![image](https://github.com/mkk4726/Exploartion/assets/68997408/afe5ba2b-2fea-40f8-9bce-1cfc18853cac)
 
 # 회고
 꽤 어렵게 느껴진 GAN 모델에 대해 많이 익숙해진 것 같아서 좋다.  
