@@ -1,12 +1,18 @@
 # 프로젝트 플로우 살펴보기
 
-![image](https://github.com/mkk4726/Exploartion/assets/68997408/d769c67b-74c9-401c-8aa0-a716ce1de5ad)
+![image](https://github.com/mkk4726/Exploartion/assets/68997408/40ad7919-ee74-45c6-a8f3-90408aa584bb)
+
 
 
 # 회고
 꽤 어렵게 느껴진 GAN 모델에 대해 많이 익숙해진 것 같아서 좋다.  
 거의 이번 노드는 12시간 이상 소요된 것 같은데, 결국 잘 끝내서 뿌듯하다.  
 전체적인 플로우를 obsidian의 excalidrwa를 이용해 그려봤는데, 정리가 너무 잘된다. 앞으로도 꾸준히 그려봐야겠다.  
+   
+loss부분에 l1 loss를 빼고 돌렸더니 엉망으로 나와서 고민하는 과정에서, GAN 모델에 l1 loss를 추가하면 성능이 향상된다는 부분을 체화할 수 있었다.  
+
+epoch10과 epoch 50을 비교해봐도 큰 차이가 없는 것으로 보아 데이터가 부족하다고 판단된다.
+
 
 # AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 김민규
