@@ -1,8 +1,12 @@
 # 전체 프로세스 개념 정리하기
 
+![image](https://github.com/mkk4726/Exploartion/assets/68997408/a3dacbd8-7db1-440c-b54f-232f80fc25fe)
+
+
 
 # 트랜스포머 개념 이미지로 그려보기
 
+![image](https://github.com/mkk4726/Exploartion/assets/68997408/4e24dcf5-8579-4c67-94b5-16afe9c11101)
 
 
 
