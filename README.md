@@ -1,6 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Exploration&fontSize=90" />
 
-# Aiffel에서 진행한 내용들입니다!
+### Aiffel에서 진행한 내용들입니다!
+---
+
+| 일정   | 기간   | 내용   |
+| --- | --- | --- |
+|     |     |     |
 
 <div align="center"> ⚒️ Tools ⚒️ </div>
 <div align="center">
