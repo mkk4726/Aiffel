@@ -1,6 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Aiffel&fontSize=90" />
 
-### Aiffel에서 진행한 내용들입니다!
+### Aiffel에서 진행한 내용들입니다!    
+
+(09.01~2.28)
+  
 ---
 
 |다룬 내용들   | 관련 폴더|
