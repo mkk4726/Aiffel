@@ -9,9 +9,9 @@
 |다룬 내용들   | 관련 폴더|
 | --- | --- |
 |Ablation Study (Skip Connection) | [Ablation Study](GoingDeeper/3th_project_(Ablation_Study))| 
-|Augmentation (+Cutmix, Mixup)     |[Augmentation](GoindDeeper/6th_project(Augmentation))|
+|Augmentation (+Cutmix, Mixup)     |[Augmentation](GoingDeeper/6th_project(Augmentation))|
 |CAM, Grad-CAM, ACOL | [CAM](GoingDeeper/9th_project(CAM))|
-|Object Detection | [Object Detection](GoinDeeper/12th_project(ObjectDetection))|
+|Object Detection | [Object Detection](GoingDeeper/12th_project(ObjectDetection))|
 
 <div align="center"> ⚒️ Tools ⚒️ </div>
 <div align="center">
