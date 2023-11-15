@@ -5,13 +5,15 @@
 (09.01~2.28)
   
 ---
+[t](Exploration(a))
 
 |다룬 내용들   | 관련 폴더|
 | --- | --- |
-|Ablation Study (Skip Connection) | GoingDeeper / 3번 노드 프로젝트| 
+|Ablation Study (Skip Connection) | [Ablation Study](GoingDeeper/3th_project(Ablation Study))| 
 |Augmentation (+Cutmix, Mixup)     |GoindDeeper / 6번 노드 프로젝트|
 |CAM, Grad-CAM, ACOL | GoingDeeper/9번 노드 프로젝트|
-
+|Object Detection | GoinDeeper / 12번 노드 프로젝트 |
+|a|[Your Title](your-project-name/tree/master/your-subfolder)|
 
 <div align="center"> ⚒️ Tools ⚒️ </div>
 <div align="center">
